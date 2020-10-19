@@ -9,4 +9,4 @@ the algorithm in this paper is applicable to both backlight images and normal im
 Please put test images into 'test_images' folder 
 '''shell
 python xxx.py
-'''
+And our paper address is https://ieeexplore.ieee.org/document/9110118
